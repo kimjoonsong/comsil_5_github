@@ -1,0 +1,12 @@
+this is a textfile used for testing github add, push, commit and branch development
+
+your pokemon of choice is: pikachu
+
+it's type is electric.
+
+this garchomp has a modest nature. so it's sp.atk is higher than average but it's atk is lower.
+
+this pikachu is holding a light orb. so it is learning volt tackle.
+
+##
+this textfile will vary in words as the branch changes. be noted.
