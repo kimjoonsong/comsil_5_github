@@ -1,12 +1,12 @@
 this is a textfile used for testing github add, push, commit and branch development
 
-your pokemon of choice is: pikachu
+your pokemon of choice is: garchomp
 
-it's type is electric.
+it's type is ground/dragon.
 
-this pikachu has a modest nature. so it's sp.atk is higher than average but it's atk is lower.
+this garchomp has a adamant nature. so it's atk is higher than average but it's sp.atk is lower.
 
-this pikachu is holding a light orb. so it is learning volt tackle.
+this garchomp is holding a soft sand. so it's ground-type moves will hit harder.
 
 
 ##
