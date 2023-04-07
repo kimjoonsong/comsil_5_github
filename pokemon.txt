@@ -1,12 +1,12 @@
 this is a textfile used for testing github add, push, commit and branch development
 
-your pokemon of choice is: tinkatank
+your pokemon of choice is: pikachu
 
-it's type is steel/fairy.
+it's type is electric.
 
-this tinkatank has a brave nature. so it's def is higher than average but it's atk is lower.
+this pikachu has a modest nature. so it's sp.atk is higher than average but it's atk is lower.
 
-this tinkatank is holding a focus sash. so it will live in 1HP.
+this pikachu is holding a light orb. so it is learning volt tackle.
 
 
 ##
